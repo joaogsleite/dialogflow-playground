@@ -34,7 +34,7 @@ async function runSample() {
     queryInput: {
       text: {
         // The query to send to the dialogflow agent
-        text: 'hello',
+        text: 'Hello, how are you?',
         // The language used by the client (en-US)
         languageCode: 'en-US',
       },
