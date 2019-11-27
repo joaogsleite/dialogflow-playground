@@ -1,0 +1,32 @@
+{
+  "name": "dialogflow-playground",
+  "version": "0.0.1",
+  "description": "A playground project to test dialogflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogsleite/dialogflow-playground.git"
+  },
+  "keywords": [
+    "dialogflow",
+    "playground",
+    "machine",
+    "learning",
+    "speech-to-text"
+  ],
+  "author": "joaogsleite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaogsleite/dialogflow-playground/issues"
+  },
+  "homepage": "https://github.com/joaogsleite/dialogflow-playground#readme",
+  "dependencies": {
+    "dialogflow": "^0.14.1",
+    "dotenv": "^8.2.0",
+    "uuid": "^3.3.3"
+  }
+}
